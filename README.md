@@ -1,6 +1,14 @@
                     Neural Network from Scratch
 
-key features:
+Key Features:
+
+
+
+
+
+
+
+
 Vectorized Neurons & Layers:
       leverage NumPy’s np.dot and array broadcasting
 
