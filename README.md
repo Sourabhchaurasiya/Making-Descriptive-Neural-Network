@@ -49,3 +49,8 @@ Optimizers:
       
 Generalization & Evaluation:
       o prevent overfitting and evaluate performance, the project includes regularization techniques. K-fold cross-validation splits the data into k folds, training on k–1 folds and validating on the remaining fold, results are averaged over all folds
+
+
+
+
+In The End made a Neural Network model with Fashion Dataset
